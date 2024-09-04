@@ -1,7 +1,7 @@
 # My LinkTree
 
 
-Hi there! I’m excited to share **My LinkTree**, a web application I built using React.js. This project is designed to help you effortlessly organize and display all your social media and profile links in one stylish and responsive platform. 
+Hi there! I’m excited to share my ** LinkTree**, a web application I built using React.js. This project is designed to help you effortlessly organize and display all your social media and profile links in one stylish and responsive platform. 
 
 **What I’ve Created**:
 - **Centralized Link Management**: I’ve created a space where you can easily manage and showcase all your links in one place.
@@ -14,4 +14,4 @@ Hi there! I’m excited to share **My LinkTree**, a web application I built usin
 2. **Install Dependencies**: `npm install`
 3. **Start the Application**: `npm start`
 
-I hope you find **My LinkTree** useful and enjoy exploring it as much as I enjoyed building it!
+I hope you find my ** LinkTree** useful and enjoy exploring it as much as I enjoyed building it!
