@@ -2,8 +2,8 @@
     "name": "SARTHAK ARORA",
     "handle": "",
     "profilePicture": "assets/SARTHAKK.jpeg",
-    "description": "I Craft Digital Solutions that make an Impact ! ",
-    "backgroundImage": "assets/background.png",
+    "description": "A budding developer with a passion for web development ! ",
+    "backgroundImage": "assets/bg.jpg",
     "linkIconFormat": "svg",
     "links": {
         "Portfolio": "https://sarthakkarora.github.io/Portfolio/",
@@ -14,6 +14,6 @@
         "Discord": 
         "https://discord.com/users/1202543864439902218",
         "Instagram": "https://www.instagram.com/sarthakk__arora/",
-        "Contact Me": "mailto:sarthak.arora1@gmail.com"
+        "ContactMe": "mailto:sarthak.arora1@gmail.com"
     }
 }
